@@ -1,0 +1,19 @@
+{
+  "name": "nodebots",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "serialport": "~1.1.1",
+    "async": "~0.2.9",
+    "log4js": "~0.6.6",
+    "firmata": "~0.2.9",
+    "q": "~0.9.6",
+    "microtime": "~0.4.0"
+  }
+}
